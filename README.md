@@ -8,7 +8,7 @@ The page has a button that prompts when clicked.The user will have to enter the 
 * When a value is entered and it's not a number,an error"please enter a number"will be diplayed on the page.
 * When an empty value is entered,an error"please enter a number" will be displayed. 
 ## Known Bugs
-No known bugs.
+ * No known bugs.
 ## Technologies Used
 * I used HTML in making the website.
 * I also used CSS to style the document.
