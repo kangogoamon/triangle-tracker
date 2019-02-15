@@ -10,11 +10,11 @@ The page has a button that prompts when clicked.The user will have to enter the 
 ## Known Bugs
 No known bugs.
 ## Technologies Used
- *I used HTML in making the website.
- *I also used CSS to style the document.
- *I used JavaScript to make the website respondent to subject.
- *I used Atom to edit the codes.
- I used both Git and GitHUb as my repositories.
+* I used HTML in making the website.
+* I also used CSS to style the document.
+* I used JavaScript to make the website respondent to subject.
+* I used Atom to edit the codes.
+* I used both Git and GitHUb as my repositories.
 ## Support and contact details
 If there is any rising issue with regards to the code,contact me through my email:Kangogoamon27@gmail.com
 ### License
